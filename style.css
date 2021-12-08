@@ -16,13 +16,11 @@ header {
     background-color: gray;
 }
 
-body {position: fixed;
-}
 
 .box {
     height: 300;
     width: 300;
-    background-color: white;
+    background-color: slateblue;
 }
 
 
