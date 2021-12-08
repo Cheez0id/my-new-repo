@@ -6,6 +6,19 @@
     ;
 }
 
+.nav {
+    padding: 20px;
+    border: 9px; border-color:white;
+    margin:20px;
+    display: inline;
+    color: lightcoral;
+    background-color: gray;
+    }
+
 #rainbowtext {
     color:darkviolet;
 }
+
+#email {
+    background-color:darkviolet;
+    }
