@@ -6,14 +6,26 @@
     ;
 }
 
-.nav {
-    padding: 20px;
-    border: 9px; border-color:white;
+header {
+    position: fixed;
+    border: 3px solid #73AD21;
+    padding: 10px;
     margin:20px;
     display: inline;
     color: lightcoral;
     background-color: gray;
-    }
+}
+
+body {position: fixed;
+}
+
+.box {
+    height: 300;
+    width: 300;
+    background-color: white;
+}
+
+
 
 .link {
     background-color: indianred;
